@@ -21,7 +21,7 @@ There are mainly 6 types of the recommendations systems :-
 6) Association rule mining :- Association rules capture the relationships between items based on their patterns of co-occurrence across transactions
 
 # Logic behind Slicing the Dataset
-We would love to work with the whole dataset outhere but since tha data is super huge we have to reduce it without compromising the quality. So we decided to eliminate the customers and feature films with low number of activity.
+We would love to work with the whole dataset outhere but since tha data is super huge we have to reduce it without compromising the quality. So we decided to eliminate the customers and feature films which are less active.
 
 # Methodology
 1) I loaded all the four text files and then merged it into a single dataframe. While loading all these, i named the columns. Here, we are neglecting the role of Date.
