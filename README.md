@@ -38,6 +38,9 @@ We would love to work with the whole dataset outhere but since tha data is super
 12) After that a non probablistic model is built using "KNN" Concept.
 13) At last , we made a item-item interactive recommendation system and made real time predictions based on Pearson's correlation
 
+# Conclusion
+As you can see at the end, we made a number of predictions by considering different logic to understand the efficiency of our system. We can see that when we try to recommend movies based on 'Forrest Gump', we could see more movies of TOM HANKS. This suggest that our model is understanding a pattern. Also, when we tried to predict some recommendations corresponding to a subject which has a prequel/sequel, we got those as the top most related, ie an another good sign. And for last we had given a superhero movie as input and guess what, we got a number other superhero movies as recommendations. So with all these results, we could say that the model we built works pretty fine.
+
 
 
 
