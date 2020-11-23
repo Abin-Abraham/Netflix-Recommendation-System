@@ -33,6 +33,10 @@ We would love to work with the whole dataset outhere but since tha data is super
 7) After preparing the whole dataset as we wanted, we pivot it for sake of recommendation system. 
 8) Then we map the Movie ID column with the mapping dataset.
 9) Then we use the Singular Value Decomposition technique(SVD) for constructing Model Based Recommendation System.
+10) After constructing a collaborative filtering recommendation system on user-user approach, we started to modify the data to built a popularity based recommendation model
+11) We sorted the data on the basis of popularity for the sake of hybrid system.
+12) After that a non probablistic model is built using "KNN" Concept.
+13) At last , we made a item-item interactive recommendation system and made real time predictions based on Pearson's correlation
 
 
 
